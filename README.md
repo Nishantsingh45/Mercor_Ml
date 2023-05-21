@@ -35,4 +35,24 @@ The project consists of the following components:
 -  It parses the input text from the request JSON payload,
 -  loads the dataset from a JSON file, and then extracts features, computes similarity, and gets ranked results as before.
 -   The function then creates a JSON response with the ranked suggestions and returns
+## Prerequisites
 
+- Python 3.10 or higher
+- The required Python packages specified in `requirements.txt`
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/clothing-recommendation-system.git
+   
+ 2.Navigate to the project directory:
+     cd clothing-recommendation-system
+3.Create a virtual environment (optional but recommended):
+        python -m venv venv
+       source venv/bin/activate
+
+4.Install the required dependencies:
+      pip install -r requirements.txt
+      
