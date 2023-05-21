@@ -48,12 +48,12 @@ The project consists of the following components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/clothing-recommendation-system.git```
+   git clone https://github.com/Nishantsingh45/Mercor_Ml.git
    
 2. Navigate to the project directory:
 
    ```bash
-   cd clothing-recommendation-system```
+   gh repo clone Nishantsingh45/Mercor_Ml
    
 3. Create a virtual environment (optional but recommended):
 
