@@ -45,14 +45,17 @@ The project consists of the following components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/clothing-recommendation-system.git
+   git clone https://github.com/your-username/clothing-recommendation-system.git```
    
  2.Navigate to the project directory:
-     cd clothing-recommendation-system
+     ```bash
+     cd clothing-recommendation-system```
 3.Create a virtual environment (optional but recommended):
+       ```bash
         python -m venv venv
-       source venv/bin/activate
+       source venv/bin/activate```
 
 4.Install the required dependencies:
-      pip install -r requirements.txt
+      ```bash
+         pip install -r requirements.txt```
       
